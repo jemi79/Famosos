@@ -1,9 +1,12 @@
-.row{
-padding-left: 3rem;
+.row {
+  padding-left: 3rem;
   margin-top: 5rem;
   margin-right: 3rem;
   background-color: #FFDD33;
 }
-.col{
+
+.col {
   margin-left: 2rem;
+  margin-top: 4rem;
+  padding: 4rem;
 }
